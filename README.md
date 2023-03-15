@@ -1,3 +1,5 @@
+![simple calendar](https://user-images.githubusercontent.com/113803421/225301762-a83a7ad7-bd4d-45b5-aa48-72b755470275.png)
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
